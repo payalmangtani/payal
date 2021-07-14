@@ -375,7 +375,7 @@ section i{
     background-color: transparent;
     color: dodgerblue;
 }
-@media screen and (max-width: 900px){
+@media screen and (max-width: 300px){
     .contact_body{
         background-repeat: repeat-y;
         overflow: auto;
