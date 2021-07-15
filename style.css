@@ -319,14 +319,12 @@ a.navbar-about{
 }
 .content {
     display: flex;
-    /*min-height: 100vh;*/
 }
 .content section {
     margin-top: 8vh;
     margin-left: 20vh;
 }
 .content-form {
-    /*margin-top: 7rem;*/
     padding-left: 20px;
     padding-top: 60px;
 }
